@@ -10,7 +10,7 @@ public class StringToArray {
 //			System.out.println(st[i]);
 //		}
         int count = 0;
-		String name="REDACTED";
+		String name="satyam";
 		char[] arr=name.toCharArray();
 		for(int i=0;i<arr.length;i++){
 			//System.out.println(arr[i]);
