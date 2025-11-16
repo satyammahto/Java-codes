@@ -1,4 +1,4 @@
-package project;
+package SmallProjects;
 //import java.util.Scanner;
 import java.util.InputMismatchException;
 public class TryCatch {

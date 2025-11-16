@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 
 import java.util.*;
 public class StringToArray {
@@ -9,10 +9,13 @@ public class StringToArray {
 //		for(int i=0;i<st.length;i++){
 //			System.out.println(st[i]);
 //		}
-		String name="Satyam";
+        int count = 0;
+		String name="AIzaSyBzRdbDRjSIM9ASRfgFY-IUJNjdcngAUA8";
 		char[] arr=name.toCharArray();
 		for(int i=0;i<arr.length;i++){
-			System.out.println(arr[i]);
+			//System.out.println(arr[i]);
+            count++;
 		}
+        System.out.println(count);
 	}
 }

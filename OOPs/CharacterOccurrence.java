@@ -1,4 +1,4 @@
-package practiceOOP;
+package OOPs;
 
 import java.util.Scanner;
 

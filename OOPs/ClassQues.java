@@ -1,4 +1,4 @@
-package practiceOOP;
+package OOPs;
 
 class Student{
 	static int age;
