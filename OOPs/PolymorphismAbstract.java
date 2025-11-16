@@ -1,4 +1,4 @@
-package practiceOOP;
+package OOPs;
 
 abstract class Anima {
  abstract void sound();  // abstract method

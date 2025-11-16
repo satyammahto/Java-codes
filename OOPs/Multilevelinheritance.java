@@ -1,4 +1,4 @@
-package practiceOOP;
+package OOPs;
 
 class Animal {
     void speak() {
