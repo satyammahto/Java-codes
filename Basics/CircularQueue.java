@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 
 public class CircularQueue {
     private int[] arr;

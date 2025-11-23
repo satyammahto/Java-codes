@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 
 public class QueueExmp {
 	private int[] arr;

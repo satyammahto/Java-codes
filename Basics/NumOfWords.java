@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 import java.util.*;
 public class NumOfWords {
 	//code for count no of words in a sentence

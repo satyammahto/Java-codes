@@ -1,6 +1,6 @@
 package Concept;
 
-public class Seive {
+public class Sieve {
     public static void main(String[] args) {
         int n = 40;
         boolean[] primes = new boolean[n+1];

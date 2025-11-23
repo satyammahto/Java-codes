@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 import java.util.*;
 public class SmallestNum {
     //code for smallest num among three num

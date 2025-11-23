@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 import java.lang.StringBuilder;
 public class prac{
 	public static void main(String args[]) {

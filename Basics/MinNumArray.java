@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 
 public class MinNumArray {
 	public static void main(String[] args) {

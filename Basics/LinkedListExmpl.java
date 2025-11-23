@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 
 class Node{
 	int data;

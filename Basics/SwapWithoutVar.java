@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 import java.util.*;
 public class SwapWithoutVar {
     //code for swapping two numbers without using third variable

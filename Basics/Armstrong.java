@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 import java.util.*;
 public class Armstrong {
     //code for checking number is an armstrong number or not

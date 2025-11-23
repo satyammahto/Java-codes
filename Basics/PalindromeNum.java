@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 import java.util.Scanner;
 public class PalindromeNum {
 

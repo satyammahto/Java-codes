@@ -1,5 +1,5 @@
 
-package satyammahto;
+package Basics;
 import java.util.Scanner;
 public class AreaOfShape {
 	int abc;

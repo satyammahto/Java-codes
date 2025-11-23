@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 import java.util.*;
 public class InbuiltQueue {
 	public static void main(String args[]) {

@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 import java.util.*;
 public class PalindromeOfString {
 	public static void main(String[] args) {

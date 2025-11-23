@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 
 import java.util.*;
 public class IAE1_1Q {

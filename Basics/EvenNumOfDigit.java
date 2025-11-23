@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 
 //code for even number of digits in an array
 public class EvenNumOfDigit {

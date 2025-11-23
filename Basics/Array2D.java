@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 
 public class Array2D {
 	public static void main(String[] args) {

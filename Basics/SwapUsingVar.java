@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 import java.util.*;
 public class SwapUsingVar {
     //code for swapping number using third variable

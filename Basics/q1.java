@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 import java.util.*;
 public class q1 {
 		    public static int[] twoSum(int[] nums, int target) {

@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 
 //Compiletime --> Method overloading
 //RunTime --> Method overriding

@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 
 public class PatternQ2 {
 	public static void main(String[] args) {

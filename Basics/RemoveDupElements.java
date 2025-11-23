@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 import java.util.*;
 public class RemoveDupElements {
     // Method to remove the element at index j

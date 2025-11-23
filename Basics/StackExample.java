@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 
 public class StackExample {
 	private int top;

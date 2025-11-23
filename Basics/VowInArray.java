@@ -1,4 +1,4 @@
-package satyammahto;
+package Basics;
 import java.util.*;
 public class VowInArray {
 	public static void main(String[] args) {
