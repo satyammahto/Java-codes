@@ -3,19 +3,22 @@ package OOPs;
 abstract class Anima {
  abstract void sound();  // abstract method
 
- void sleep() {
+ void sleep()
+ {
      System.out.println("Animal is sleeping");
  }
 }
 
 class Donkey extends Anima {
- void sound() {
+ void sound()
+ {
      System.out.println("dha chu dha chu");
  }
 }
 
 class Cat extends Anima {
- void sound() {
+ void sound()
+ {
      System.out.println("Cat meows");
  }
 }

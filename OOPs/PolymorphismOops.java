@@ -1,4 +1,4 @@
-package Basics;
+package OOPs;
 
 //Compiletime --> Method overloading
 //RunTime --> Method overriding

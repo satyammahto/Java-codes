@@ -1,4 +1,4 @@
-package OOPs;
+package Basics;
 
 public class SimpleStack {
 	int arr[]=new int[5];

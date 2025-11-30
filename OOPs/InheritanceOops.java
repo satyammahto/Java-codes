@@ -1,4 +1,4 @@
-package Basics;
+package OOPs;
 
 // Parent class
 class X {
@@ -8,7 +8,8 @@ class X {
         System.out.println("Java (Static method)");
     }
 
-    void show() {
+    void show()
+    {
         System.out.println("This is class X");
     }
 }
@@ -17,9 +18,17 @@ class X {
 class Y extends X {
     String name = "Satyam";
 
-    @Override
-    void show() {
+
+    void show(int num , String name)
+    {
+        super.a = num;
+        this.name = name;
         System.out.println("This is class Y (Overridden method)");
+    }
+
+    @Override
+    public void show(){
+        System.out.println("THis is class Y");
     }
 }
 
@@ -32,6 +41,6 @@ public class InheritanceOops {
         System.out.println("name: " + y.name);     // Child's variable
 
         X.max();       // Static method from parent
-        y.show();      // Overridden method — child version runs
+        y.show(20 , "xyz");      // Overridden method — child version runs
     }
 }
